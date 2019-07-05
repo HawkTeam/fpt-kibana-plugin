@@ -22,10 +22,10 @@
     "@elastic/eslint-config-kibana": "^0.6.1",
     "@elastic/plugin-helpers": "^7.0.0",
     "babel-eslint": "^7.2.3",
-    "eslint": "^3.19.0",
-    "eslint-plugin-babel": "^4.9.1",
+    "eslint": "^5.19.0",
+    "eslint-plugin-babel": "^5.9.1",
     "eslint-plugin-import": "^2.3.0",
-    "eslint-plugin-mocha": "^4.9.0",
+    "eslint-plugin-mocha": "^5.9.0",
     "eslint-plugin-react": "^7.0.1",
     "expect.js": "^0.3.1"
   }
